@@ -5,7 +5,7 @@ window.addEventListener('load', function(){
     canvas.width = 1000;
     canvas.height = 500;
 
-
+    //what the player presses
     class InputHandler{
         constructor(game){
             this.game = game;
